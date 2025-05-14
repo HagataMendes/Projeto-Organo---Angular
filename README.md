@@ -1,4 +1,4 @@
-![Thumbnail](./thumb.png)
+## Projeto Angular 
 
 # Organo
 
@@ -7,6 +7,10 @@ O Organo é um aplicativo organizador de leituras que permite listar livros, inc
 ## 🔨 Funcionalidades do projeto
 
 `Listagem de livros`: Exibe uma lista de livros, separados por gênero literário, exibindo a imagem e demais informações.
+
+![Projeto]()   
+![Projeto]()   
+
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
