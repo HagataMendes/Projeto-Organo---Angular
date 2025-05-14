@@ -8,8 +8,8 @@ O Organo é um aplicativo organizador de leituras que permite listar livros, inc
 
 `Listagem de livros`: Exibe uma lista de livros, separados por gênero literário, exibindo a imagem e demais informações.
 
-![Projeto]()   
-![Projeto]()   
+![Projeto](https://github.com/HagataMendes/Projeto-Organo---Angular/blob/main/0ed525585af6ed99b4f9fd16e3aa81ba6ac40681.png)   
+![Projeto](https://github.com/HagataMendes/Projeto-Organo---Angular/blob/main/3e892111f78b0ec0915ac5113fac48eb656e3816.png)   
 
 
 ## ✔️ Técnicas e tecnologias utilizadas
